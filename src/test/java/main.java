@@ -6,12 +6,15 @@ public class main {
         audi.Doors="2";
         audi.Model="A90";
 
+
         CarFeature1 tire =new CarFeature1();
         tire.tyre="4;";
         tire.tyreColor="Pink";
         tire.tyreModel="Yokohama";
         tire.tyreWidth="18";
         tire.tyreYear="2023";
+
+
 
     }
 }
