@@ -6,6 +6,12 @@ public class main {
         audi.Doors="2";
         audi.Model="A90";
 
+        Lights light=new Lights();
+        light.color="blue";
+        light.opacity="50";
+        light.size="40'";
+
+
 
         CarFeature1 tire =new CarFeature1();
         tire.tyre="4;";
